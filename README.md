@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! 👋 I'm Lawal Tijani
 
-<!--
-**Janilawy/janilawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front end developer and a digital marketer passionate about making the web accessible,building and growing products. 
 
-Here are some ideas to get you started:
+- 🔭 I’m a long life learner
+- 🌱 I’m currently buiding and growing brands [@oculate](https://twitter.com/oculate)
+- 👯 I’m looking to collaborate on with amazing developers with like mind. 
+- 🤔 Ask me about coding and marketing
+- 📫 How to reach me: [twitter](https://twitter.com/janilawy) | [linkedin](https://www.linkedin.com/in/janilawy/)
+- 😄 Pronouns: He/She lol
+- ⚡ Fun fact: Vibes around musics and dancing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
